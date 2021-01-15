@@ -23,12 +23,12 @@
     <repository>
       <id>nexus</id>
       <name>Releases</name>
-      <url>http://52.14.254.249:8081/repository/samplerelese/</url>
+      <url>http://18.222.39.158:8081/repository/samplerelese/</url>
     </repository>
     <snapshotRepository>
       <id>nexus</id>
       <name>Snapshot</name>
-      <url>http://52.14.254.249:8081/repository/samplerepo/</url>
+      <url>http://18.222.39.158:8081/repository/samplerepo/</url>
     </snapshotRepository>
   </distributionManagement>    
 </project>
